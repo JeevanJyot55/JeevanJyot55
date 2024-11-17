@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jeevan!
 
 ### 👨‍💻 About Me
-- 🎓 I’m a double major in **Computer Science** and **Economics** at **UW-Madison**.
+- 🎓 I’m a double major in **Computer Science** and **Economics** at **University of Wisconsin-Madison**.
 - 💡 I’m passionate about combining technology and economics to solve complex problems, drive innovation, and create impactful, data-driven solutions.
 - 🌱 Currently exploring **React** for frontend development and building backend systems for projects like **OptiStock**, a smarter stock recommender platform.
 - 🔍 I’m seeking opportunities to collaborate on **quantitative analysis, financial technology, and optimization projects**.
