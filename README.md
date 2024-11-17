@@ -36,7 +36,7 @@ By focusing on clarity and actionable insights, OptiStock empowers users to make
 
 **Tech Stack:** Python, MySQL, Flask, TypeScript  
 
-![GitHub Repo](https://github.com/JeevanJyot55/cheesehacks-null-pointers)
+[![GitHub Repo](https://github.com/JeevanJyot55/cheesehacks-null-pointers)]
 
 #### **Futuregram**
 An app to send messages to your future self, focused on privacy without cloud storage. FutureGram tackles the modern issue of constant online stimuli by encouraging users to slow down and look forward to meaningful content.  
