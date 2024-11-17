@@ -48,7 +48,7 @@ An app to send messages to your future self, focused on privacy without cloud st
 ---
 
 ### 📈 GitHub Contribution Graph
-[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeevanGitHub&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeevanJyot55&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
