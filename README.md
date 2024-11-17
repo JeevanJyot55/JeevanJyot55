@@ -53,7 +53,7 @@ An app to send messages to your future self, focused on privacy without cloud st
 ---
 
 ### 📬 Connect With Me
-![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/jeevanjyotsingh)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/jeevanjyotsingh)
 📧 Email: [jsingh77@wisc.edu]
 
 ---
