@@ -24,7 +24,7 @@
 ---
 
 ### 🔥 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeevanHyot55&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeevanJyot55&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
