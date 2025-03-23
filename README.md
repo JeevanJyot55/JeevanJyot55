@@ -5,7 +5,7 @@
 - 💡 I’m passionate about combining technology and economics to solve complex problems, drive innovation, and create impactful, data-driven solutions.
 - 🌱 Currently exploring **React** for frontend development and building backend systems for projects like **OptiStock**, a smarter stock recommender platform.
 - 🔍 I’m seeking opportunities to collaborate on **quantitative analysis, financial technology, and optimization projects**.
-- 🌐 Check out my portfolio: [Your Portfolio Link]
+- 🌐 Check out my portfolio: [(https://drive.google.com/file/d/1y9v9oJQiRH_L_oMt7-h4wLzLnOjKEnLH/view?usp=sharing)]
 - 📫 Reach me at: [jsingh77@wisc.edu] | [www.linkedin.com/in/jeevanjyotsingh]
 
 ---
