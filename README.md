@@ -11,9 +11,9 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, Python, Swift, C, Assembly, TypeScript, JavaScript
+- **Languages:** Java, Python, Swift, C, Assembly, TypeScript, JavaScript, R, HTML/CSS
 - **Frameworks & Libraries:** React, Node.js, SwiftUI
-- **Tools & Platforms:** Git, Docker, AWS
+- **Tools & Platforms:** Git, Linux, Bash, MS Office
 - **Databases:** MySQL, Firebase
 
 ---
