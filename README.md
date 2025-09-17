@@ -4,7 +4,7 @@
 - 🎓 I’m a double major in **Computer Science** and **Economics** at **University of Wisconsin-Madison**.
 - 💡 I’m passionate about combining technology and economics to solve complex problems, drive innovation, and create impactful, data-driven solutions.
 - 🌱 Currently exploring **React** for frontend development and building backend systems for projects like **OptiStock**, a smarter stock recommender platform.
-- 🔍 I’m seeking opportunities to collaborate on **quantitative analysis, financial technology, and optimization projects**.
+- 🔍 I’m seeking opportunities to collaborate on **Artificial Intelligence, Machine Learning, and Software Engineering**.
 - 🌐 Check out my portfolio: [(https://drive.google.com/file/d/1MUA596RKWrpUbS7Kj5Z8YbEfFppwTDR3/view?usp=sharing)]
 - 📫 Reach me at: [jeevanjsingh5125@gmail.com] | [www.linkedin.com/in/jeevanjyotsingh]
 
