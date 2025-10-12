@@ -8,18 +8,19 @@
 
 ## 🧠 Featured Projects
 
-### 🔹 [authEncryption](https://github.com/JeevanJyot55/authEncryption)
-A full-stack authentication and encryption system built using **Node.js**, **Express**, **Prisma**, **PostgreSQL**, and **React (Vite)**.  
-Implements secure password hashing with **bcrypt**, token-based authentication using **JWT**, and modular microservices for scalability.  
-**Future Goals:** Deploy to **Google Cloud Run** or **AWS ECS**, add **OAuth2 / Google Sign-In**, and integrate **Docker Compose** for one-click deployment.  
-**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, React, JWT, bcrypt  
-
----
 
 ### 🔹 [Legacy Code Translator (C-to-Python)](https://github.com/JeevanJyot55/C2P)
 An AI-powered translator that converts **legacy C code into Python** using transformer-based models.  
 Built to modernize old codebases while preserving structure and readability.  
 **Tech Stack:** Python, PyTorch, Transformers, Flask, Docker  
+
+---
+
+### 🔹 [authEncryption](https://github.com/JeevanJyot55/authEncryption)
+A full-stack authentication and encryption system built using **Node.js**, **Express**, **Prisma**, **PostgreSQL**, and **React (Vite)**.  
+Implements secure password hashing with **bcrypt**, token-based authentication using **JWT**, and modular microservices for scalability.  
+**Future Goals:** Deploy to **Google Cloud Run** or **AWS ECS**, add **OAuth2 / Google Sign-In**, and integrate **Docker Compose** for one-click deployment.  
+**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, React, JWT, bcrypt  
 
 ---
 
