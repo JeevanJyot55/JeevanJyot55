@@ -36,15 +36,13 @@ A time-capsule social app where posts become visible **only after a set date**, 
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Skills  
 **Languages:** Java, Python, TypeScript, JavaScript, C, Swift  
-**Frameworks & Libraries:** React, Angular, Node.js, Express, PyTorch, Transformers
-**AI / ML:** NLP, LLM Fine-Tuning, Tokenization, Sequence-to-Sequence Models, Prompt Engineering, GenAI (MetaGPT)
-
-**Backend Development:** REST APIs, Microservices, Docker, CI/CD, Prisma ORM, Authentication & Authorization
-
-**Frontend Development:** React, Angular, SwiftUI, TypeScript UI Design
-**Databases:** PostgreSQL, MySQL, Firebase Firestore
+**Frameworks & Libraries:** React, Angular, Node.js, Express, PyTorch, Transformers  
+**AI / ML:** NLP, LLM Fine-Tuning, Tokenization, Sequence-to-Sequence Models, Prompt Engineering, GenAI (MetaGPT)  
+**Backend Development:** REST APIs, Microservices, Docker, CI/CD, Prisma ORM, Authentication & Authorization  
+**Frontend Development:** React, Angular, SwiftUI, TypeScript UI Design  
+**Databases:** PostgreSQL, MySQL, Firebase Firestore  
 
 ---
 
