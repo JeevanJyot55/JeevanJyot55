@@ -15,7 +15,7 @@ Built to modernize old codebases while preserving structure and readability.
 
 ---
 
-### 🔹 [authEncryption](https://github.com/JeevanJyot55/authEncryption)
+### 🔹 [AuthEncryption](https://github.com/JeevanJyot55/authEncryption)
 A full-stack authentication and encryption system built using **Node.js**, **Express**, **Prisma**, **PostgreSQL**, and **React (Vite)**.  
 Implements secure password hashing with **bcrypt**, token-based authentication using **JWT**, and modular microservices for scalability.  
 **Future Goals:** Deploy to **Google Cloud Run** or **AWS ECS**, add **OAuth2 / Google Sign-In**, and integrate **Docker Compose** for one-click deployment.  
