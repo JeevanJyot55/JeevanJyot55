@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jeevan
 
-🎓 **Computer Science & Economics** double major at the **University of Wisconsin–Madison**  
-💡 Passionate about building scalable, secure, and data-driven systems by combining technology and economics.  
+🎓 **Junior** double majoring in **Computer Science & Economics** at the **University of Wisconsin–Madison**  
+🤖 **AI Intern at [Anvian Innovations](https://www.anvian.ai/)**  
 🌱 Exploring **AI/ML**, **full-stack development**, and **system design** to bridge backend infrastructure with user experience.  
 
 ---
