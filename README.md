@@ -18,15 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanJyot55&show_icons=true&theme=radical)
-
----
-
-### 🔥 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeevanJyot55&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ### 🚀 Featured Projects
 #### **OptiStock**
