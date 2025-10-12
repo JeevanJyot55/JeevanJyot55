@@ -1,44 +1,53 @@
-# Hi there 👋 I'm Jeevan!
+# 👋 Hi there, I'm Jeevan
 
-### 👨‍💻 About Me
-- 🎓 I’m a double major in **Computer Science** and **Economics** at **University of Wisconsin-Madison**.
-- 💡 I’m passionate about combining technology and economics to solve complex problems, drive innovation, and create impactful, data-driven solutions.
-- 🌱 Currently exploring **React** for frontend development and building backend systems for projects like **OptiStock**, a smarter stock recommender platform.
-- 🔍 I’m seeking opportunities to collaborate on **Artificial Intelligence, Machine Learning, and Software Engineering**.
-- 🌐 Check out my portfolio: [(https://drive.google.com/file/d/1MUA596RKWrpUbS7Kj5Z8YbEfFppwTDR3/view?usp=sharing)]
-- 📫 Reach me at: [jeevanjsingh5125@gmail.com] | [www.linkedin.com/in/jeevanjyotsingh]
+🎓 **Computer Science & Economics** double major at the **University of Wisconsin–Madison**  
+💡 Passionate about building scalable, secure, and data-driven systems by combining technology and economics.  
+🌱 Exploring **AI/ML**, **full-stack development**, and **system design** to bridge backend infrastructure with user experience.  
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Java, Python, Swift, C, Assembly, TypeScript, JavaScript, R, HTML/CSS
-- **Frameworks & Libraries:** React, Node.js, SwiftUI
-- **Tools & Platforms:** Git, Linux, Bash, MS Office
-- **Databases:** MySQL, Firebase
+## 🧠 Featured Projects
+
+### 🔹 [authEncryption](https://github.com/JeevanJyot55/authEncryption)
+A full-stack authentication and encryption system built using **Node.js**, **Express**, **Prisma**, **PostgreSQL**, and **React (Vite)**.  
+Implements secure password hashing with **bcrypt**, token-based authentication using **JWT**, and modular microservices for scalability.  
+**Future Goals:** Deploy to **Google Cloud Run** or **AWS ECS**, add **OAuth2 / Google Sign-In**, and integrate **Docker Compose** for one-click deployment.  
+**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, React, JWT, bcrypt  
 
 ---
 
-### 🚀 Featured Projects
-#### **OptiStock**
-OptiStock was born out of a desire to tackle the overwhelming complexity of modern financial markets. The platform combines advanced data analysis and optimization techniques to provide personalized stock recommendations based on market trends and user preferences.  
-
-By focusing on clarity and actionable insights, OptiStock empowers users to make smarter investment decisions with confidence. Our vision is to bridge the gap between complex financial models and everyday investors, making the process of investing both accessible and effective.  
-
-**Tech Stack:** Python, MySQL, Flask, TypeScript  
-
-GitHub Repository - [https://github.com/JeevanJyot55/cheesehacks-null-pointers]
-
-#### **Futuregram**
-An app to send messages to your future self, focused on privacy without cloud storage. FutureGram tackles the modern issue of constant online stimuli by encouraging users to slow down and look forward to meaningful content.  
-
-**Tech Stack:** React, Node.js, Firebase, JavaScript  
-
-GitHub Repository - [https://github.com/Troder2000/MadHacks]
+### 🔹 [Legacy Code Translator (C-to-Python)](https://github.com/JeevanJyot55/C2P)
+An AI-powered translator that converts **legacy C code into Python** using transformer-based models.  
+Built to modernize old codebases while preserving structure and readability.  
+**Tech Stack:** Python, PyTorch, Transformers, Flask, Docker  
 
 ---
 
-### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jeevanjyotsingh) 
-📧 Email: [jsingh77@wisc.edu]
+### 🔹 [OptiStock](https://github.com/JeevanJyot55/OptiStock)
+Smart stock-recommender platform that analyzes trends and indicators to highlight potential buy opportunities.  
+Applies data analytics and visualization to support investment insights.  
+**Tech Stack:** Python (Flask), React, TypeScript, Docker, Yahoo Finance API  
 
 ---
+
+### 🔹 [FutureGram](https://github.com/JeevanJyot55/FutureGram)
+A time-capsule social app where posts become visible **only after a set date**, promoting mindful digital sharing and anticipation.  
+**Tech Stack:** React, Node.js, Firebase, Cloud Storage  
+
+---
+
+## ⚙️ Skills
+**Languages:** Java, Python, TypeScript, JavaScript, C, Swift  
+**Frameworks & Tools:** React, Angular, Node.js, Flask, Docker, Firebase, Prisma, PostgreSQL, PyTorch  
+**Areas of Interest:** AI/ML, System Design, Web Applications, Quantitative Analysis  
+
+---
+
+## 🌐 Connect with Me
+📫 **Email:** jsingh77@wisc.edu  
+🔗 **LinkedIn:** [linkedin.com/in/jeevanjyotsingh](https://www.linkedin.com/in/jeevanjyotsingh)  
+💻 **GitHub:** [github.com/JeevanJyot55](https://github.com/JeevanJyot55)
+
+---
+
+> _“Code with purpose. Learn endlessly. Build things that last.”_
