@@ -38,15 +38,17 @@ A time-capsule social app where posts become visible **only after a set date**, 
 
 ## ⚙️ Skills
 **Languages:** Java, Python, TypeScript, JavaScript, C, Swift  
-**Frameworks & Tools:** React, Angular, Node.js, Flask, Docker, Firebase, Prisma, PostgreSQL, PyTorch  
-**Areas of Interest:** AI/ML, System Design, Web Applications, Quantitative Analysis  
+**Frameworks & Libraries:** React, Angular, Node.js, Express, PyTorch, Transformers
+**AI / ML:** NLP, LLM Fine-Tuning, Tokenization, Sequence-to-Sequence Models, Prompt Engineering, GenAI (MetaGPT)
+**Backend Development:** REST APIs, Microservices, Docker, CI/CD, Prisma ORM, Authentication & Authorization
+**Frontend Development:** React, Angular, SwiftUI, TypeScript UI Design
+**Databases:** PostgreSQL, MySQL, Firebase Firestore
 
 ---
 
 ## 🌐 Connect with Me
 📫 **Email:** jsingh77@wisc.edu  
 🔗 **LinkedIn:** [linkedin.com/in/jeevanjyotsingh](https://www.linkedin.com/in/jeevanjyotsingh)  
-💻 **GitHub:** [github.com/JeevanJyot55](https://github.com/JeevanJyot55)
 
 ---
 
