@@ -8,7 +8,6 @@
 
 ## 🧠 Featured Projects
 
-
 ### 🔹 [Legacy Code Translator (C-to-Python)](https://github.com/JeevanJyot55/C2P)
 An AI-powered translator that converts **legacy C code into Python** using transformer-based models.  
 Built to modernize old codebases while preserving structure and readability.  
