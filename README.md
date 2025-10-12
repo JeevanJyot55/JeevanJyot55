@@ -18,7 +18,6 @@
 
 ---
 
-
 ### 🚀 Featured Projects
 #### **OptiStock**
 OptiStock was born out of a desire to tackle the overwhelming complexity of modern financial markets. The platform combines advanced data analysis and optimization techniques to provide personalized stock recommendations based on market trends and user preferences.  
@@ -35,11 +34,6 @@ An app to send messages to your future self, focused on privacy without cloud st
 **Tech Stack:** React, Node.js, Firebase, JavaScript  
 
 GitHub Repository - [https://github.com/Troder2000/MadHacks]
-
----
-
-### 📈 GitHub Contribution Graph
-[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeevanJyot55&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
