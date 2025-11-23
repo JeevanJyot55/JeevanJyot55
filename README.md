@@ -10,6 +10,13 @@
 
 ### 🔹 [Legacy Code Translator (C-to-Python)](https://github.com/JeevanJyot55/C2P)
 An AI-powered translator that converts **legacy C code into Python** using transformer-based models.  
+Instead of manual ratings, CineRank asks one simple question — “Which movie do you like better?” — and uses a binary-search-based algorithm to place it exactly where it belongs.  
+**Tech Stack:** React, JavaScript, Firebase Auth, Firestore, OMDB API 
+
+---
+
+### 🔹 [CineRank](https://github.com/JeevanJyot55/CineRank)
+A cinematic ranking platform that helps users build a personalized movie list through fast, intuitive pairwise comparisons.
 Built to modernize old codebases while preserving structure and readability.  
 **Tech Stack:** Python, PyTorch, Transformers, Flask, Docker  
 
