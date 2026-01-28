@@ -1,59 +1,95 @@
 # 👋 Hi there, I'm Jeevan
 
-🤖 **Incoming Software Engineering Intern** at **Google** for Summer 2026 working on the Google Photos Team. Ex-AI Intern.
+🤖 **Incoming Software Engineering Intern** at **Google** (Summer 2026) — *Google Photos*  
 🎓 **Junior** double majoring in **Computer Science & Economics** at the **University of Wisconsin–Madison**  
+
 ---
 
 ## 🧠 Featured Projects
 
-### 🔹 [Legacy Code Translator (C-to-Python)](https://github.com/JeevanJyot55/C2P)
-An AI-powered translator that converts **legacy C code into Python** using transformer-based models.  
-Instead of manual ratings, CineRank asks one simple question — “Which movie do you like better?” — and uses a binary-search-based algorithm to place it exactly where it belongs.  
-**Tech Stack:** React, JavaScript, Firebase Auth, Firestore, OMDB API 
+### 🔹 [Legacy Code Translator (C → Python)](https://github.com/JeevanJyot55/C2P)
+An **AI-powered code translation system** that converts legacy **C programs into readable Python** using transformer-based models.
 
----
+- Preserves control flow and program structure  
+- Designed to modernize aging codebases without manual rewrites  
+- Containerized for reproducibility and deployment  
 
-### 🔹 [CineRank](https://github.com/JeevanJyot55/CineRank)
-A cinematic ranking platform that helps users build a personalized movie list through fast, intuitive pairwise comparisons.
-Built to modernize old codebases while preserving structure and readability.  
 **Tech Stack:** Python, PyTorch, Transformers, Flask, Docker  
 
 ---
 
+### 🔹 [CineRank](https://github.com/JeevanJyot55/CineRank)
+A **personalized movie-ranking platform** that replaces traditional ratings with fast, intuitive **pairwise comparisons**.
+
+Instead of numeric ratings, CineRank asks one question —  
+**“Which movie do you like better?”**  
+A binary-search-inspired algorithm places movies precisely in a ranked list.
+
+**Tech Stack:** React, JavaScript, Firebase Auth, Firestore, OMDB API  
+
+---
+
 ### 🔹 [AuthEncryption](https://github.com/JeevanJyot55/authEncryption)
-A full-stack authentication and encryption system built using **Node.js**, **Express**, **Prisma**, **PostgreSQL**, and **React (Vite)**.  
-Implements secure password hashing with **bcrypt**, token-based authentication using **JWT**, and modular microservices for scalability.  
-**Future Goals:** Deploy to **Google Cloud Run** or **AWS ECS**, add **OAuth2 / Google Sign-In**, and integrate **Docker Compose** for one-click deployment.  
-**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, React, JWT, bcrypt  
+A **secure full-stack authentication and encryption system** built with scalability in mind.
+
+- Secure password hashing using **bcrypt**  
+- Token-based authentication via **JWT**  
+- Modular backend architecture supporting microservices  
+
+**Future Goals:**  
+- OAuth2 / Google Sign-In  
+- Docker Compose for one-command setup  
+- Deployment to **Google Cloud Run** or **AWS ECS**
+
+**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, React (Vite), JWT, bcrypt  
 
 ---
 
 ### 🔹 [OptiStock](https://github.com/JeevanJyot55/OptiStock)
-Smart stock-recommender platform that analyzes trends and indicators to highlight potential buy opportunities.  
-Applies data analytics and visualization to support investment insights.  
+A **stock recommendation platform** that analyzes trends and indicators to highlight potential buy opportunities.
+
+- Data-driven insights for smarter investing  
+- Interactive visualizations for market analysis  
+
 **Tech Stack:** Python (Flask), React, TypeScript, Docker, Yahoo Finance API  
 
 ---
 
 ### 🔹 [FutureGram](https://github.com/JeevanJyot55/FutureGram)
-A time-capsule social app where posts become visible **only after a set date**, promoting mindful digital sharing and anticipation.  
+A **time-capsule social platform** where posts become visible **only after a chosen future date**.
+
+Designed to encourage **mindful digital sharing**, anticipation, and reduced dopamine-driven scrolling.
+
 **Tech Stack:** React, Node.js, Firebase, Cloud Storage  
 
 ---
 
-## ⚙️ Skills  
-**Languages:** Java, Python, TypeScript, JavaScript, C, Swift  
-**Frameworks & Libraries:** React, Angular, Node.js, Express, PyTorch, Transformers  
-**AI / ML:** NLP, LLM Fine-Tuning, Tokenization, Sequence-to-Sequence Models, Prompt Engineering, GenAI (MetaGPT)  
-**Backend Development:** REST APIs, Microservices, Docker, CI/CD, Prisma ORM, Authentication & Authorization  
-**Frontend Development:** React, Angular, SwiftUI, TypeScript UI Design  
-**Databases:** PostgreSQL, MySQL, Firebase Firestore  
+## ⚙️ Skills
+
+**Languages:**  
+Java, Python, TypeScript, JavaScript, C, Swift  
+
+**Frameworks & Libraries:**  
+React, Angular, Node.js, Express, PyTorch, Transformers  
+
+**AI / ML:**  
+NLP, Transformer Models, LLM Fine-Tuning, Tokenization, Sequence-to-Sequence Models, Prompt Engineering, GenAI (MetaGPT)  
+
+**Backend Development:**  
+REST APIs, Microservices, Docker, CI/CD, Prisma ORM, Authentication & Authorization  
+
+**Frontend Development:**  
+React, Angular, SwiftUI, TypeScript UI Design  
+
+**Databases:**  
+PostgreSQL, MySQL, Firebase Firestore  
 
 ---
 
 ## 🌐 Connect with Me
-📫 **Email:** jsingh77@wisc.edu  
-🔗 **LinkedIn:** [linkedin.com/in/jeevanjyotsingh](https://www.linkedin.com/in/jeevanjyotsingh)  
+
+📫 **Email:** jeevanjsingh5125@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/jeevanjyotsingh  
 
 ---
 
