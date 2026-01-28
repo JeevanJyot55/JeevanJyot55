@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jeevan
 
+🤖 **Incoming Software Engineering Intern** at **Google** for Summer 2026 working on the Google Photos Team. Ex-AI Intern
 🎓 **Junior** double majoring in **Computer Science & Economics** at the **University of Wisconsin–Madison**  
-🤖 **AI Intern at [Anvian Innovations](https://www.anvian.ai/)** — working on GenAI systems, model evaluation, and prompt engineering.  
 🌱 Exploring **AI/ML**, **full-stack development**, and **system design** to bridge backend infrastructure with user experience.  
 
 ---
