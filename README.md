@@ -45,7 +45,7 @@ A **secure full-stack authentication and encryption system** built with scalabil
 
 ---
 
-### 🔹 [OptiStock](https://github.com/JeevanJyot55/OptiStock)
+### 🔹 [OptiStock](https://github.com/JeevanJyot55/OptiStocks)
 A **stock recommendation platform** that analyzes trends and indicators to highlight potential buy opportunities.
 
 - Data-driven insights for smarter investing  
