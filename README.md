@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jeevan
 
-🤖 **Incoming Software Engineering Intern** at **Google** (Summer 2026) — *Google Photos*  
-🎓 **Junior** double majoring in **Computer Science & Economics** at the **University of Wisconsin–Madison**  
+🤖 **Software Engineering Intern** at **Google** (Summer 2026) — *Google Photos - AI Mode*  
+🎓 **Senior** double majoring in **Computer Science & Economics** at the **University of Wisconsin–Madison**  
 
 ---
 
