@@ -27,10 +27,6 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ```python
 class Jeevan:
     def __init__(self):
@@ -47,12 +43,8 @@ class Jeevan:
 me = Jeevan()
 ```
 
-</td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - 🤖 Shipping **AI features at Google** on Google Photos' AI Mode
 - 🔭 Currently building **[Park Madison](https://github.com/JeevanJyot55/park-madison)**, a parking finder for UW–Madison
