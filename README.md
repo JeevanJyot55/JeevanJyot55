@@ -13,7 +13,7 @@
   <a href="https://jeevanjyot55.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=4285F4" /></a>
   <a href="https://www.linkedin.com/in/jeevanjyotsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jeevanjsingh5125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/JeevanJyot55/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://drive.google.com/file/d/1Aedrto4bIIx_JAfOM7Cgo9O3nz4NUsBq/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
