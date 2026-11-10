@@ -16,12 +16,6 @@
   <a href="https://github.com/JeevanJyot55/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeevanJyot55&style=flat-square&color=4285F4&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/JeevanJyot55?label=FOLLOWERS&style=flat-square&color=34A853" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20NEW--GRAD%20SWE-FBBC05?style=flat-square" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
