@@ -1,96 +1,226 @@
-# 👋 Hi there, I'm Jeevan
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,35:34A853,70:FBBC05,100:EA4335&height=240&section=header&text=Jeevan%20Jyot%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Full-Stack&descSize=20&descAlignY=56&animation=twinkling" width="100%" />
+</p>
 
-🤖 **Software Engineering Intern** at **Google** (Summer 2026) — *Google Photos - AI Mode*  
-🎓 **Senior** double majoring in **Computer Science & Economics** at the **University of Wisconsin–Madison**  
+<p align="center">
+  <a href="https://github.com/JeevanJyot55">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=4285F4&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%A4%96+SWE+Intern+%40+Google+%E2%80%94+Photos+AI+Mode;%F0%9F%8E%93+CS+%2B+Economics+%40+UW%E2%80%93Madison;%F0%9F%A7%A0+I+build+AI+tools+%26+full-stack+products;%E2%9A%A1+Code+with+purpose.+Build+things+that+last." alt="Typing SVG" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://jeevanjyot55.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=4285F4" /></a>
+  <a href="https://www.linkedin.com/in/jeevanjyotsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jeevanjsingh5125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/JeevanJyot55/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+</p>
 
-## 🧠 Featured Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JeevanJyot55&style=flat-square&color=4285F4&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/JeevanJyot55?label=FOLLOWERS&style=flat-square&color=34A853" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20NEW--GRAD%20SWE-FBBC05?style=flat-square" />
+</p>
 
-### 🔹 [Legacy Code Translator (C → Python)](https://github.com/JeevanJyot55/C2P)
-An **AI-powered code translation system** that converts legacy **C programs into readable Python** using transformer-based models.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- Preserves control flow and program structure  
-- Designed to modernize aging codebases without manual rewrites  
-- Containerized for reproducibility and deployment  
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
 
-**Tech Stack:** Python, PyTorch, Transformers, Flask, Docker  
+<table>
+<tr>
+<td width="58%" valign="top">
 
----
+```python
+class Jeevan:
+    def __init__(self):
+        self.role      = "SWE Intern @ Google (Summer 2026)"
+        self.team      = "Google Photos — AI Mode"
+        self.school    = "University of Wisconsin–Madison"
+        self.majors    = ["Computer Science", "Economics"]
+        self.year      = "Senior"
+        self.focus     = ["AI / ML", "Full-Stack", "FinTech"]
 
-### 🔹 [CineRank](https://github.com/JeevanJyot55/CineRank)
-A **personalized movie-ranking platform** that replaces traditional ratings with fast, intuitive **pairwise comparisons**.
+    def motto(self):
+        return "Code with purpose. Learn endlessly. Build things that last."
 
-Instead of numeric ratings, CineRank asks one question —  
-**“Which movie do you like better?”**  
-A binary-search-inspired algorithm places movies precisely in a ranked list.
+me = Jeevan()
+```
 
-**Tech Stack:** React, JavaScript, Firebase Auth, Firestore, OMDB API  
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
----
+- 🤖 Shipping **AI features at Google** on Google Photos' AI Mode
+- 🔭 Currently building **[Park Madison](https://github.com/JeevanJyot55/park-madison)**, a parking finder for UW–Madison
+- 🧠 Exploring **transformers for code translation** and **ML for finance**
+- 📈 Where CS meets Econ: I love building tools that help people make better decisions
+- ⚡ Fun fact: I rank my movies with an algorithm I wrote ([CineRank](https://github.com/JeevanJyot55/CineRank))
 
-### 🔹 [AuthEncryption](https://github.com/JeevanJyot55/authEncryption)
-A **secure full-stack authentication and encryption system** built with scalability in mind.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- Secure password hashing using **bcrypt**  
-- Token-based authentication via **JWT**  
-- Modular backend architecture supporting microservices  
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚀 Featured Projects
 
-**Future Goals:**  
-- OAuth2 / Google Sign-In  
-- Docker Compose for one-command setup  
-- Deployment to **Google Cloud Run** or **AWS ECS**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, React (Vite), JWT, bcrypt  
+### 🔁 [Legacy Code Translator](https://github.com/JeevanJyot55/LegacyCodeTranslator)
+**AI-powered C → Python translation.**
+Fine-tunes a transformer (CodeT5) on a custom dataset of aligned C/Python pairs to modernize legacy code without manual rewrites.
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 
-### 🔹 [OptiStock](https://github.com/JeevanJyot55/OptiStocks)
-A **stock recommendation platform** that analyzes trends and indicators to highlight potential buy opportunities.
+</td>
+<td width="50%" valign="top">
 
-- Data-driven insights for smarter investing  
-- Interactive visualizations for market analysis  
+### 🎬 [CineRank](https://github.com/JeevanJyot55/CineRank)
+**Rank movies by answering one question:**
+> *"Which movie do you like better?"*
 
-**Tech Stack:** Python (Flask), React, TypeScript, Docker, Yahoo Finance API  
+A binary-search-inspired algorithm places each movie in your ranked list in just a few comparisons.
 
----
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/OMDb%20API-F5C518?style=flat-square&logo=imdb&logoColor=black" />
 
-### 🔹 [FutureGram](https://github.com/JeevanJyot55/FutureGram)
-A **time-capsule social platform** where posts become visible **only after a chosen future date**.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Designed to encourage **mindful digital sharing**, anticipation, and reduced dopamine-driven scrolling.
+### 🔐 [authEncryption](https://github.com/JeevanJyot55/authEncryption)
+**Secure, microservices-based authentication.**
+Independent auth and customer services with **bcrypt** hashing, **JWT**-protected routes and a React frontend.
 
-**Tech Stack:** React, Node.js, Firebase, Cloud Storage  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
----
+</td>
+<td width="50%" valign="top">
 
-## ⚙️ Skills
+### 📈 [OptiStocks](https://github.com/JeevanJyot55/OptiStocks)
+**Data-driven stock recommendations.**
+Scores tickers on momentum and RSI indicators to surface potential buys, with interactive charts.
 
-**Languages:**  
-Java, Python, TypeScript, JavaScript, C, Swift  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-**Frameworks & Libraries:**  
-React, Angular, Node.js, Express, PyTorch, Transformers  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**AI / ML:**  
-NLP, Transformer Models, LLM Fine-Tuning, Tokenization, Sequence-to-Sequence Models, Prompt Engineering, GenAI (MetaGPT)  
+### ⏳ [FutureGram](https://github.com/ArshBansal64/FutureGram) <sub>*team project*</sub>
+**A time-capsule social platform.**
+Posts unlock only after a chosen future date: mindful sharing over dopamine-driven scrolling.
 
-**Backend Development:**  
-REST APIs, Microservices, Docker, CI/CD, Prisma ORM, Authentication & Authorization  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-**Frontend Development:**  
-React, Angular, SwiftUI, TypeScript UI Design  
+</td>
+<td width="50%" valign="top">
 
-**Databases:**  
-PostgreSQL, MySQL, Firebase Firestore  
+### 🅿️ [Park Madison](https://github.com/JeevanJyot55/park-madison) <sub>🚧 *in progress*</sub>
+**Find parking near UW–Madison & downtown.**
+Interactive map with destination autocomplete, "locate me" and service-area overlays.
 
----
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
-## 🌐 Connect with Me
+</td>
+</tr>
+</table>
 
-📫 **Email:** jeevanjsingh5125@gmail.com 
-🔗 **LinkedIn:** https://www.linkedin.com/in/jeevanjyotsingh  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## ⚙️ Tech Arsenal
 
-> _“Code with purpose. Learn endlessly. Build things that last.”_
+<div align="center">
+
+| | |
+|:--:|:--|
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,swift&theme=dark" /> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,html,css&theme=dark" /> |
+| **🛠️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,prisma&theme=dark" /> |
+| **🧠 AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /> <img src="https://cdn.simpleicons.org/huggingface" height="48" /> |
+| **🗄️ Data & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,gcp,docker&theme=dark" /> |
+| **🔧 Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" /> |
+
+</div>
+
+<details>
+<summary><b>🤖 Deeper dive: AI / ML & backend specialties</b></summary>
+<br>
+
+| Area | Skills |
+|---|---|
+| **AI / ML** | NLP · Transformer Models · LLM Fine-Tuning · Tokenization · Seq2Seq · Prompt Engineering · GenAI (MetaGPT) |
+| **Backend** | REST APIs · Microservices · Docker · CI/CD · Prisma ORM · AuthN / AuthZ |
+| **Frontend** | React · Angular · SwiftUI · TypeScript UI Design |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JeevanJyot55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JeevanJyot55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanJyot55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JeevanJyot55&theme=tokyonight&hide_border=true&ring=4285F4&fire=EA4335&currStreakLabel=4285F4" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeevanJyot55&theme=tokyo-night&hide_border=true&area=true&color=4285F4&line=34A853&point=FBBC05" />
+</p>
+
+<!-- Contribution snake: generated by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeevanJyot55/JeevanJyot55/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeevanJyot55/JeevanJyot55/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/JeevanJyot55/JeevanJyot55/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <i>Always happy to talk about AI, full-stack engineering, fintech or a good movie ranking.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevanjyotsingh"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jeevanjsingh5125@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jeevanjyot55.github.io"><img src="https://img.shields.io/badge/-View%20Portfolio-34A853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4335,30:FBBC05,65:34A853,100:4285F4&height=130&section=footer&text=Code%20with%20purpose.%20Build%20things%20that%20last.&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
+</p>
